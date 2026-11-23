@@ -1,0 +1,29 @@
+# Keil 编译产物
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.uvguix.*
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.htm
+*.build_log.htm
+*.bak
+*.scvd
+JLinkLog.txt
+JLinkSettings.ini
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
